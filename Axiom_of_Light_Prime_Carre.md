@@ -1,4 +1,4 @@
-#### The Axiom of Light Prime Carre
+#### The Axiom of Light Prime Carre|Square
 
 ![Light Prime Carre Cube](cube_Light_prime_carre.png)
 
