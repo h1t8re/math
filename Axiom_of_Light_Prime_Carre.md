@@ -2,7 +2,7 @@
 
 ![Light Prime Carre Cube](cube_Light_prime_carre.png)
 
-$(f±g)^{2'} = ((f±g).(f±g))^{'}$
+$(f±g)^{![light prime carre glyph](light_prime_carre.png)} = ((f±g).(f±g))^{'}$
 
 $(f±g)^{2'} = (f±g)^{'}.(f±g)+(f±g).(f±g)^{'}$
 
