@@ -20,7 +20,7 @@ $(f±g)^{2'} = 2.(fg ± gf ± fg' ± f'g)$
 
 $(f±g)^{2'} = 2.(f'g ± 2fg ± fg')$
 
-carre prime {2'} is:
+carre prime {2'} the new math symbol is:
 
 ![light prime carre glyph](light_prime_carre.png)
 
