@@ -1,5 +1,5 @@
 #### The Axiom of Light Prime Carre|Square
-
+carre prime is ![light prime carre glyph](light_prime_carre.png)
 ![Light Prime Carre Cube](cube_Light_prime_carre.png)
 
 $(f±g)^{2'} = ((f±g).(f±g))^{'}$
